@@ -20,7 +20,6 @@
 
 [2. 프로그램 구조](#-2.-프로그램-구조)
    - [ER Diagram](#-ER-Diagram)
-   - [Usecase Diagram](#-Usecase-Diagram)
    - [Flow Chart](#-Flow-Chart)
 
 [3. 페이지 기능 안내](#-3.-페이지-기능-안내)
@@ -69,16 +68,6 @@
 ## 2. 프로그램 구조
 ### 🔹 ER Diagram
 ![erDiagram](https://github.com/Miihyunee/sybnb/assets/151993240/2644f8e8-ccfa-4dab-a204-614edc2108b1)
-
-<br>
-
-### 🔹 View
-![view](https://github.com/Miihyunee/LibraryinMarch/assets/151993240/a5d8b2cf-63eb-4e81-b617-1d63277b5ef6)
-
-<br>
-
-### 🔹 Usecase Diagram
-![usecase](https://github.com/Miihyunee/LibraryinMarch/assets/151993240/231b4dd7-0193-42ab-857f-9368f744c1dd)
 
 <br>
 
