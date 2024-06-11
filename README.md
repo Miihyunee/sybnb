@@ -7,8 +7,8 @@
 - 결제, 공유하기, 달력, 주소 검색 등 다양한  API를 활용할 수 있는 사이트
 
 위 3가지 조건에 부합하는 호텔 예약 사이트로 주제로 선정하였습니다.
-
-* 에어비앤비 사이트 참조
+<br>
+<img src="https://img.shields.io/badge/Airbnb-FF5A5F?style=for-the-badge&logo=Airbnb&logoColor=white"> 참조
   
 <br>
 
