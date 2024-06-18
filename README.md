@@ -8,7 +8,7 @@
 
 위 3가지 조건에 부합하는 호텔 예약 사이트로 주제로 선정하였습니다.
 <br>
-<img src="https://img.shields.io/badge/Airbnb-FF5A5F?style=for-the-badge&logo=Airbnb&logoColor=white"> 참조
+<img src="https://img.shields.io/badge/Airbnb-FF5A5F?style=for-the-badge&logo=Airbnb&logoColor=white"> 사이트를 참고하였습니다.
   
 <br>
 
