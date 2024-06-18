@@ -75,13 +75,23 @@
 <br>
 
 ### 🔹 주요 기능 - Flow Chart
- - 관리자 
-![flow_admin](https://github.com/Miihyunee/LibraryinMarch/assets/151993240/6850b5c1-19c7-42dc-a5aa-039ad6ceb444)
+ - 회원등록 및 가입승인
+![회원등록](https://github.com/Miihyunee/sybnb/assets/151993240/8259152c-b607-42cc-99c3-bcf2b7dc8421)
 
 <br>
 
- - 사용자(회원/비회원)
-![flow-user](https://github.com/Miihyunee/LibraryinMarch/assets/151993240/8c42ac33-d93d-418c-9c4a-ea3b85f6611e)
+ - 호텔등록 및 영업관리
+![호텔등록](https://github.com/Miihyunee/sybnb/assets/151993240/5ad47e31-1b52-4cfd-9bde-d23c3d87664a)
+
+<br>
+
+ - 숙박 예약(예약 · 취소 · 변경) 및 예약관리
+![숙박](https://github.com/Miihyunee/sybnb/assets/151993240/21308727-2104-4067-ba2b-88bc409e9ee8)
+
+<br>
+
+ - 후기˙평점 관리
+![후기](https://github.com/Miihyunee/sybnb/assets/151993240/faada4b5-a3e3-4edd-8f8c-71fba154185b)
 
 <br><br>
 
