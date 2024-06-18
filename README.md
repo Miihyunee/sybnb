@@ -69,7 +69,12 @@
 
 <br>
 
-### 🔹 Flow Chart
+### 🔹 주요 기능
+![main](https://github.com/Miihyunee/sybnb/assets/151993240/8d57937e-95b8-4e18-83f5-ea1b3d44a594)
+
+<br>
+
+### 🔹 주요 기능 - Flow Chart
  - 관리자 
 ![flow_admin](https://github.com/Miihyunee/LibraryinMarch/assets/151993240/6850b5c1-19c7-42dc-a5aa-039ad6ceb444)
 
