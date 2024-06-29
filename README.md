@@ -98,7 +98,12 @@
 
 ## 3. 페이지 기능 안내
 #### ☝ 주요 기능
- - 회원등록 및 가입승인
+ - 호스트 회원가입
+![호스트회원가입](https://github.com/Miihyunee/sybnb/assets/151993240/d7d6003b-87bf-4e59-940f-e408bdb97ac0)
+
+<br>
+
+ - 호스트 가입 승인
 ![호스트 가입승인불가+승인완료 영상](https://github.com/Miihyunee/sybnb/assets/151993240/68951802-ae44-43dd-8c71-ec103e5bf1d2)
 
 <br>
@@ -108,19 +113,64 @@
 
 <br>
 
- - 숙박 예약(예약 · 취소 · 변경) 및 예약관리
+ - 예약 확정
+![예약확정](https://github.com/Miihyunee/sybnb/assets/151993240/033d05ea-954e-4f3b-ba0b-61aa04c9dad0)
+
+<br>
+
+- 예약변경 승인
+![예약변경승인](https://github.com/Miihyunee/sybnb/assets/151993240/c5663561-b0a8-488f-bdaa-d68d39a45fd3)
+
+<br>
+
+- 예약변경 거부
+![예약변경거부](https://github.com/Miihyunee/sybnb/assets/151993240/c928e70b-f664-4719-b45a-9451837df57e)
 
 <br>
 
  - 후기˙평점 관리
+![후기작성](https://github.com/Miihyunee/sybnb/assets/151993240/f11ed852-881f-403f-aa2b-bf123b91ec85)
 
 <br>
 
 #### ✌ 세부 기능
-![매출](https://github.com/Miihyunee/CafeManagement/assets/151993240/a0f41ccb-cc85-48c7-8cee-25faa2ec7a5b)
+ - 게스트 회원가입
+![게스트회원가입](https://github.com/Miihyunee/sybnb/assets/151993240/76529c35-6dfd-423c-aa7a-e581e0985b82)
 
-![매출2](https://github.com/Miihyunee/CafeManagement/assets/151993240/31d64b66-b10e-401c-a1cf-d9084ef4f76b)
+<br>
 
+- 게스트 위시 리스트
+![위시리스트](https://github.com/Miihyunee/sybnb/assets/151993240/7f45d40b-b56b-4289-b21e-2afb7e1dccee)
+
+<br>
+
+- 호스트 상세 페이지
+![호스트상세페이지](https://github.com/Miihyunee/sybnb/assets/151993240/6e2ae0c5-6f30-4e7b-ac00-a35859e08f9d)
+
+<br>
+
+- 채팅
+![채팅](https://github.com/Miihyunee/sybnb/assets/151993240/11b2e4e4-dac0-4735-bcff-9100070dfa58)
+
+<br>
+
+- 호텔 신규 등록
+![호텔신규등록](https://github.com/Miihyunee/sybnb/assets/151993240/1bb335ab-354f-460f-be8e-7d0c085d7857)
+
+<br>
+
+- 호텔 신규 등록(이어서)
+![이어서 등록](https://github.com/Miihyunee/sybnb/assets/151993240/824f4ba3-9e15-4a84-ba15-8a8cb40c7df1)
+
+<br>
+
+- 호텔 정보 수정
+![호텔정보수정](https://github.com/Miihyunee/sybnb/assets/151993240/045c3acb-fbb5-4f1e-a7e2-a63d7f2c4b09)
+
+<br>
+
+- 호스트 계정
+![호스트계정정보](https://github.com/Miihyunee/sybnb/assets/151993240/828619b2-e757-4cd6-bf37-54150f9c1720)
 
 <br><br>
 
