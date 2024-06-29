@@ -1,4 +1,4 @@
-![호텔 등록 승인](https://github.com/Miihyunee/sybnb/assets/151993240/27031552-8027-43f8-9ee6-bef64367aac1)# 🏨 sybnb (3rd Team Project)
+# 🏨 sybnb (3rd Team Project)
 
 국비지원 훈련과정 마지막 팀프로젝트입니다.
 
